@@ -1,0 +1,55 @@
+/*
+Theme Name: MTB Theme
+Author: AJ
+Author URI: https://wp-content.co/ UPDATE
+Description: Custom theme for light e commerce
+Version: 1.0 UPDATE
+Tested upto: 5.4 UPDATE
+*/
+
+.cards-wrapper {
+column-gap: 18px;
+}
+
+.hero {
+    background-color: #222529;
+    padding-top: 5rem;
+}
+
+.heading {
+   text-align: center;
+   padding: 3rem;
+   background-color: #222529;
+   color: whitesmoke;
+}
+
+.header-h1 {
+    font-size: 10rem;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.card-title {
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 24px;
+}
+
+.card-text {
+    font-family: "Noto Sans", sans-serif;
+}
+
+/*
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.noto-sans {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+*/
