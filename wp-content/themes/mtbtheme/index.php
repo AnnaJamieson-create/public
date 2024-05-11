@@ -20,7 +20,7 @@
 <div class="card  text-bg-dark mb-3">
   <img src="mtbbar-proto.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Peppy Peanut</h5>
+    <h5 class="card-title">Peppy Peanut/pīnati</h5>
     <p class="card-text">The protein-packed snack that keeps you energised and ready to conquer the trails!</p>
     <a href="#" class="btn btn-light">Buy Now</a>
   </div>
@@ -30,7 +30,7 @@
 <div class="card  text-bg-dark mb-3">
   <img src="mtbbar-proto.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Dynamo Date</h5>
+    <h5 class="card-title">Dynamo Date/whurutu</h5>
     <p class="card-text">The protein-packed snack that keeps you energised and ready to conquer the trails!</p>
     <a href="#" class="btn btn-light">Buy Now</a>
   </div>
@@ -40,7 +40,7 @@
 <div class="card  text-bg-dark mb-3">
   <img src="mtbbar-proto.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Speedy Seeds</h5>
+    <h5 class="card-title">Speedy Seeds/pata</h5>
     <p class="card-text">The protein-packed snack that keeps you energised and ready to conquer the trails!</p>
     <a href="#" class="btn btn-light">Buy Now</a>
   </div>

@@ -29,7 +29,7 @@
     </button>
     <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
       <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel">Dark offcanvas</h5>
+        <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel">MTB BARS</h5>
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body">
@@ -45,18 +45,15 @@
               Products
             </a>
             <ul class="dropdown-menu dropdown-menu-dark">
-              <li><a class="dropdown-item" href="#">Peppy Peanut</a></li>
-              <li><a class="dropdown-item" href="#">Dynamo Date</a></li>
+              <li><a class="dropdown-item" href="#">Peppy Peanut/pīnati</a></li>
+              <li><a class="dropdown-item" href="#">Dynamo Date/whurutu</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="#">Speedy Seeds</a></li>
+              <li><a class="dropdown-item" href="#">Speedy Seeds/pata</a></li>
             </ul>
           </li>
         </ul>
-        <form class="d-flex mt-3" role="search">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-success" type="submit">Search</button>
         </form>
       </div>
     </div>
